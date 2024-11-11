@@ -6,3 +6,8 @@ Since I am still quite new to maldev I thought it would be a fun and smart idea 
 I had also seen Cracked5pider try this as well, which I have some bits from their code, and that had helped me get an overall understand
 of how I should go about writing this. So big thanks to [Cracked5pider](https://github.com/Cracked5pider/earlycascade-injection) as well.
 ___
+
+## Things to improve
+
+- [ ] Dynamically get the offsets to both `g_ShimsEnabled` and `g_pfnSE_DllLoaded` Pointers.
+- [ ] Store both payloads in other ways. I.e Resources.
